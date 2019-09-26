@@ -1,0 +1,14 @@
+E:\Manisha\WebApiLogInLogOut\WebApiLogInLogOut\bin\Debug\netcoreapp2.2\WebApiLogInLogOut.deps.json
+E:\Manisha\WebApiLogInLogOut\WebApiLogInLogOut\bin\Debug\netcoreapp2.2\WebApiLogInLogOut.runtimeconfig.json
+E:\Manisha\WebApiLogInLogOut\WebApiLogInLogOut\bin\Debug\netcoreapp2.2\WebApiLogInLogOut.runtimeconfig.dev.json
+E:\Manisha\WebApiLogInLogOut\WebApiLogInLogOut\bin\Debug\netcoreapp2.2\WebApiLogInLogOut.dll
+E:\Manisha\WebApiLogInLogOut\WebApiLogInLogOut\obj\Debug\netcoreapp2.2\WebApiLogInLogOut.csprojAssemblyReference.cache
+E:\Manisha\WebApiLogInLogOut\WebApiLogInLogOut\obj\Debug\netcoreapp2.2\WebApiLogInLogOut.csproj.CoreCompileInputs.cache
+E:\Manisha\WebApiLogInLogOut\WebApiLogInLogOut\obj\Debug\netcoreapp2.2\WebApiLogInLogOut.RazorAssemblyInfo.cache
+E:\Manisha\WebApiLogInLogOut\WebApiLogInLogOut\obj\Debug\netcoreapp2.2\WebApiLogInLogOut.RazorAssemblyInfo.cs
+E:\Manisha\WebApiLogInLogOut\WebApiLogInLogOut\obj\Debug\netcoreapp2.2\WebApiLogInLogOut.AssemblyInfoInputs.cache
+E:\Manisha\WebApiLogInLogOut\WebApiLogInLogOut\obj\Debug\netcoreapp2.2\WebApiLogInLogOut.AssemblyInfo.cs
+E:\Manisha\WebApiLogInLogOut\WebApiLogInLogOut\obj\Debug\netcoreapp2.2\WebApiLogInLogOut.RazorTargetAssemblyInfo.cache
+E:\Manisha\WebApiLogInLogOut\WebApiLogInLogOut\bin\Debug\netcoreapp2.2\WebApiLogInLogOut.pdb
+E:\Manisha\WebApiLogInLogOut\WebApiLogInLogOut\obj\Debug\netcoreapp2.2\WebApiLogInLogOut.dll
+E:\Manisha\WebApiLogInLogOut\WebApiLogInLogOut\obj\Debug\netcoreapp2.2\WebApiLogInLogOut.pdb
